@@ -15,3 +15,7 @@ Registration forms: It's cumbersome to ensure users enter all fields in the corr
 Optional fields: Not all customers provide complete information, but the constructor forces them to.
 Data consistency: Changes to user profiles after registration can cause unexpected issues due to mutable fields.
 Implement solution using the Builder Pattern to address the issue.
+
+# UML Diagram
+
+![Blank diagram (6)](https://github.com/MedicMedic/SoftEng2Lab1/assets/142379309/18d90572-a2b6-4526-87fb-372c87a3024e)
